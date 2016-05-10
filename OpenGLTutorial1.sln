@@ -1,9 +1,13 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 14
-VisualStudioVersion = 14.0.24720.0
+VisualStudioVersion = 14.0.25123.0
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OpenGLTutorial1", "OpenGLTutorial1\OpenGLTutorial1.csproj", "{4F1C4FB8-532E-4513-BBF2-DFE9BF357E5F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OpenGLTutorial2", "OpenGLTutorial2\OpenGLTutorial2.csproj", "{3911FBA3-9C1D-4826-AF78-7C4DC044FDB0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OpenGLTutorial0", "OpenGLTutorial0\OpenGLTutorial0.csproj", "{987516F4-011A-4CB3-8C89-B7E8A4844A5C}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +19,14 @@ Global
 		{4F1C4FB8-532E-4513-BBF2-DFE9BF357E5F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4F1C4FB8-532E-4513-BBF2-DFE9BF357E5F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4F1C4FB8-532E-4513-BBF2-DFE9BF357E5F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3911FBA3-9C1D-4826-AF78-7C4DC044FDB0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3911FBA3-9C1D-4826-AF78-7C4DC044FDB0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3911FBA3-9C1D-4826-AF78-7C4DC044FDB0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3911FBA3-9C1D-4826-AF78-7C4DC044FDB0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{987516F4-011A-4CB3-8C89-B7E8A4844A5C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{987516F4-011A-4CB3-8C89-B7E8A4844A5C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{987516F4-011A-4CB3-8C89-B7E8A4844A5C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{987516F4-011A-4CB3-8C89-B7E8A4844A5C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
